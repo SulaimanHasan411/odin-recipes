@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: antiquewhite;
+}
+
+p {
+    color: whitesmoke;
+}
+
+.backed {
+    background-color: blanchedalmond;
+}
