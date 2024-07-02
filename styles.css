@@ -23,3 +23,14 @@ p {
 .backed {
     background-color: blanchedalmond;
 }
+
+.items {
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    border: 3px solid red;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    text-align: center;
+}
